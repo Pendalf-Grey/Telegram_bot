@@ -1,0 +1,3 @@
+This bot searches for information about TELEFUNKEN TVs
+ on the Elektrosila website and displays an image of the TV,
+a link to it in the store, a discounted price and a non-discounted price
